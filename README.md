@@ -14,9 +14,9 @@
   <li>Clone this repository to your local machine:</li>
   <pre><code>git clone https://github.com/LouCodingStuff/YoutubeDownloader.git</code></pre>
   <li>Go to the script directory</li>
-  <pre><code>cd Youtube-Downloader</code></pre>
+  <pre><code>cd YoutubeDownloader</code></pre>
   <li>Run the script:</li>
-  <pre><code>python script.py</code></pre>
+  <pre><code>python3 script.py</code></pre>
   <p>Note: Replace &lt;username&gt; and &lt;repository&gt; in step 1 with your own GitHub username and the name of your forked repository, respectively.</p>
 </ol>
 
