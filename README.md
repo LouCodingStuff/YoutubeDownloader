@@ -9,7 +9,13 @@
     <h1>YouTube Downloader</h1>
     <p>A simple Python script that allows you to download a video file and its thumbnail from a YouTube URL.</p>
 <h2>Installation</h2>
-<p>Make sure you have Python 3 installed. Clone this repository, navigate to the directory.</p>
+<p>To use this script, follow these steps:</p>
+<ol>
+  <li>Clone this repository to your local machine:</li>
+  <pre><code>git clone https://github.com/LouCodingStuff/YoutubeDownloader.git</code></pre>
+  <li>Run the script:</li>
+  <pre><code>python script.py</code></pre>
+</ol>
 
 <h2>Usage</h2>
 <p>To use the script, run the following command in your terminal or command prompt:</p>
