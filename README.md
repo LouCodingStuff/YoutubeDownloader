@@ -12,7 +12,7 @@
 <p>To use this script, follow these steps:</p>
 <ol>
   <li>Clone this repository to your local machine:</li>
-  <pre><code>git clone https://github.com/&lt;username&gt;/&lt;repository&gt;.git</code></pre>
+  <pre><code>git clone https://github.com/LouCodingStuff/YoutubeDownloader.git</code></pre>
   <li>Go to the script directory</li>
   <pre><code>cd Youtube-Downloader</code></pre>
   <li>Run the script:</li>
