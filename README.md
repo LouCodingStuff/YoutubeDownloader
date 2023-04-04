@@ -21,7 +21,7 @@
 <ul>
     <li>pytube</li>
 </ul>
-<p>These dependencies are automatically installed when you run the script.</p>
+<p>These dependencies are automatically installed when you run the script if they are not already available.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License.</p>
